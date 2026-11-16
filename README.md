@@ -12,7 +12,7 @@
 
 ## 合成顺序
 
-Field → ED → PID → UFD → GCD Domain → ICD → Integral domain → CRing → Ring → Rng → Ab → Grp → Mon → Sg → Set
+Field → ED → PID → UFD → GCD Domain → ICD → Integral domain → Commutative Ring → Ring → Rng → Ab → Grp → Mon → Sg → Set
 
 Rng 的中文名为伪环，不要求乘法单位元；ICD 指整闭整环。路线表示逐步放宽性质或遗忘运算，并非集合基数排序。Rng → Ab 忘掉乘法，Sg → Set 忘掉运算。两个 Set 合成消去，奖励 2000 基础分。
 
